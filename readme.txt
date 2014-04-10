@@ -1,5 +1,5 @@
 === Bing Translator ===
-Contributors: msopentech, ivycat, bradyvercher, sewmyheadon, Websiteguy
+Contributors: msopentech, ivycat, bradyvercher, sewmyheadon, kidsguide
 Tags: translation, translator, internationalization, i18n, localization
 Requires at least: 3.8
 Tested up to: 3.9
