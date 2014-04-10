@@ -1,0 +1,147 @@
+# Copyright (C) 2014 Bing Translator
+# This file is distributed under the same license as the Bing Translator package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bing Translator 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/bing-translator\n"
+"POT-Creation-Date: 2014-04-04 23:09:27+00:00\n"
+"PO-Revision-Date: 2014-04-08 18:39-0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Bing Translator"
+msgstr "Traductor de Bing"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:88
+#: includes/class-bing-translator-widget.php:102
+msgid "Translation Settings"
+msgstr "Configuración de la traducción"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:95
+#: includes/class-bing-translator-widget.php:129
+msgid "Pick a Color"
+msgstr "Elegir un color"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:102
+#: includes/class-bing-translator-widget.php:155
+msgid "Community Translations"
+msgstr "Traducciones de la comunidad"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:116
+msgid "When to translate"
+msgstr "Cuándo traducir"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:124
+msgid "Theme"
+msgstr "Tema"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:132
+msgid "Enable Community Translations"
+msgstr "Habilitar traducciones de la comunidad"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:191
+#: includes/class-bing-translator-widget.php:110
+msgid "Manual"
+msgstr "Manual"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:193
+#: includes/class-bing-translator-widget.php:113
+msgid "Translate when visitor clicks on the translate button."
+msgstr "Traducir cuando el visitante haga clic en el botón Traducir."
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:198
+#: includes/class-bing-translator-widget.php:122
+msgid "Automatic"
+msgstr "Automático"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:200
+#: includes/class-bing-translator-widget.php:125
+msgid "Translate automatically based on the visitor’s browser language."
+msgstr "Traducir automáticamente según el idioma del explorador del visitante."
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:216
+#: includes/class-bing-translator-widget.php:137
+msgid "Dark"
+msgstr "Oscuro"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:218
+#: includes/class-bing-translator-widget.php:140
+msgid "Best for pages with a light background."
+msgstr "La mejor opción para aquellas páginas que tengan un fondo claro."
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:223
+#: includes/class-bing-translator-widget.php:148
+msgid "Light"
+msgstr "Claro"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:225
+#: includes/class-bing-translator-widget.php:151
+msgid "Best for pages with a dark background."
+msgstr "La mejor opción para aquellas páginas que tengan un fondo oscuro."
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:241
+#: includes/class-bing-translator-widget.php:163
+msgid "Allow visitors to suggest translations?"
+msgstr "¿Desea permitir que los visitantes sugieran traducciones?"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:243
+msgid ""
+"The translations submitted by a visitor become available to other visitors "
+"as alternatives. By default, these alternatives will never replace the "
+"default translation."
+msgstr ""
+"Las traducciones que un visitante envíe estarán disponibles como "
+"alternativas para otros visitantes. De forma predeterminada, estas "
+"alternativas nunca reemplazarán la traducción por defecto. "
+
+#: admin/includes/class-bing-translator-admin.php:81
+msgid "Insert Widget"
+msgstr "Insertar widget"
+
+#: admin/includes/class-bing-translator-admin.php:82
+msgid "Don't Translate"
+msgstr "No traducir"
+
+#: admin/views/screen-settings.php:3
+msgid "Bing"
+msgstr "Bing"
+
+#: admin/views/screen-settings.php:4
+msgid "Translator Widget"
+msgstr "Widget del Traductor"
+
+#: includes/class-bing-translator-widget.php:31
+msgid "Embed a Bing Translator widget"
+msgstr "Inserte un widget del Traductor de Bing"
+
+#: includes/class-bing-translator-widget.php:98
+msgid "Title:"
+msgstr "Título:"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/bing-translator/"
+msgstr "http://wordpress.org/plugins/bing-translator/"
+
+#. Description of the plugin/theme
+msgid ""
+"Enable visitors to translate your site in their language in one click with "
+"the Bing Translator plugin from Microsoft Open Technologies, Inc."
+msgstr ""
+"Permita que los visitantes traduzcan su página web a sus respectivos idiomas "
+"con un solo clic gracias al complemento del Traductor de Bing, de Microsoft "
+"Open Technologies, Inc."
+
+#. Author of the plugin/theme
+msgid "Microsoft Open Technologies​, Inc."
+msgstr "Microsoft Open Technologies, Inc."
+
+#. Author URI of the plugin/theme
+msgid "http://msopentech.com/"
+msgstr "http://msopentech.com/"

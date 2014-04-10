@@ -1,0 +1,146 @@
+# Copyright (C) 2014 Bing Translator
+# This file is distributed under the same license as the Bing Translator package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bing Translator 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/bing-translator\n"
+"POT-Creation-Date: 2014-04-04 23:09:27+00:00\n"
+"PO-Revision-Date: 2014-04-08 18:45-0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Bing Translator"
+msgstr "Bing Fordító"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:88
+#: includes/class-bing-translator-widget.php:102
+msgid "Translation Settings"
+msgstr "Fordítási beállítások"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:95
+#: includes/class-bing-translator-widget.php:129
+msgid "Pick a Color"
+msgstr "Válasszon színt"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:102
+#: includes/class-bing-translator-widget.php:155
+msgid "Community Translations"
+msgstr "Közösségi fordítások"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:116
+msgid "When to translate"
+msgstr "Mikor fordítható"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:124
+msgid "Theme"
+msgstr "Téma"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:132
+msgid "Enable Community Translations"
+msgstr "Közösségi fordítások engedélyezése"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:191
+#: includes/class-bing-translator-widget.php:110
+msgid "Manual"
+msgstr "Kézi"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:193
+#: includes/class-bing-translator-widget.php:113
+msgid "Translate when visitor clicks on the translate button."
+msgstr "A látogató a Fordítás gombra kattintva indítja el a fordítást."
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:198
+#: includes/class-bing-translator-widget.php:122
+msgid "Automatic"
+msgstr "Automatikus"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:200
+#: includes/class-bing-translator-widget.php:125
+msgid "Translate automatically based on the visitor’s browser language."
+msgstr "Automatikus fordítás a látogató böngészőjének nyelve alapján."
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:216
+#: includes/class-bing-translator-widget.php:137
+msgid "Dark"
+msgstr "Sötét"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:218
+#: includes/class-bing-translator-widget.php:140
+msgid "Best for pages with a light background."
+msgstr "Világos hátterű oldalakhoz ajánlott."
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:223
+#: includes/class-bing-translator-widget.php:148
+msgid "Light"
+msgstr "Világos"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:225
+#: includes/class-bing-translator-widget.php:151
+msgid "Best for pages with a dark background."
+msgstr "Sötét hátterű oldalakhoz ajánlott."
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:241
+#: includes/class-bing-translator-widget.php:163
+msgid "Allow visitors to suggest translations?"
+msgstr "Javasolhatnak fordításokat a látogatók?"
+
+#: admin/includes/class-bing-translator-admin-screen-settings.php:243
+msgid ""
+"The translations submitted by a visitor become available to other visitors "
+"as alternatives. By default, these alternatives will never replace the "
+"default translation."
+msgstr ""
+"A látogató által beírt fordítások a többi látogató számára alternatívaként "
+"megjelennek. Alapértelmezésben ezek az alternatívák soha nem írják felül az "
+"alapértelmezett fordítást. "
+
+#: admin/includes/class-bing-translator-admin.php:81
+msgid "Insert Widget"
+msgstr "Widget beszúrása"
+
+#: admin/includes/class-bing-translator-admin.php:82
+msgid "Don't Translate"
+msgstr "Nem fordítható"
+
+#: admin/views/screen-settings.php:3
+msgid "Bing"
+msgstr "Bing"
+
+#: admin/views/screen-settings.php:4
+msgid "Translator Widget"
+msgstr "Fordító widget"
+
+#: includes/class-bing-translator-widget.php:31
+msgid "Embed a Bing Translator widget"
+msgstr "Bing Fordító widget beágyazása"
+
+#: includes/class-bing-translator-widget.php:98
+msgid "Title:"
+msgstr "Cím:"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/bing-translator/"
+msgstr "http://wordpress.org/plugins/bing-translator/"
+
+#. Description of the plugin/theme
+msgid ""
+"Enable visitors to translate your site in their language in one click with "
+"the Bing Translator plugin from Microsoft Open Technologies, Inc."
+msgstr ""
+"A látogatók egy kattintással lefordíthatják saját nyelvükre a meglátogatott "
+"oldalt a Microsoft Open Technologies, Inc. Bing Fordító beépülő moduljával."
+
+#. Author of the plugin/theme
+msgid "Microsoft Open Technologies​, Inc."
+msgstr "Microsoft Open Technologies​, Inc."
+
+#. Author URI of the plugin/theme
+msgid "http://msopentech.com/"
+msgstr "http://msopentech.com/"
