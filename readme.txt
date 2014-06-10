@@ -117,6 +117,18 @@ Yes.  No problem.  Because the widget is powered by JavaScript running in the vi
 
 No.  The plugin uses the language settings in WordPress.  Find out more about [WordPress in your language](https://codex.wordpress.org/WordPress_in_Your_Language/ "WordPress in Your Language").
 
+= How can I get the Bing Translator widget to display in my native language? =
+
+The Bing Translator widget is displayed on the site using the visitor's browser language settings.
+
+To see how the Bing Translator widget looks in German, you need to change your browser accept-language setting to German.
+
+Instructions to change default browser language settings for:
+
+* [Internet Explorer](http://windows.microsoft.com/en-us/windows-vista/change-your-internet-explorer-language-settings)
+* [Chrome](https://support.google.com/chrome/answer/95416?hl=en)
+* [Firefox](https://support.mozilla.org/en-US/kb/settings-fonts-languages-and-pop-ups)
+
 = Can I embed multiple copies of the Bing Translator in my site? =
 
 Yes.  However, the Bing Translator will only show on each page once.  So, it's best to decide on one implementation (Widget, Template Tag, or Shortcode) and stick with it.
